@@ -69,11 +69,7 @@ Ensure you have Flutter installed on your machine. You can download it from [her
     ```sh
     flutter run
     ```
-
-## Screenshots
-
-Add screenshots here to give users a visual of your app.
-
+    
 ## Contributing
 
 1. Fork the repository.
