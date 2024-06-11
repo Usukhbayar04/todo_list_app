@@ -2,7 +2,7 @@
 
 ## A simple and intuitive Todo List app to help you organize your tasks efficiently.
 
-[![Build Status](https://github.com/Usukhbayar04/todo_list_app/tree/master)]([https://github.com/Usukhbayar04/todolist_app/](https://github.com/Usukhbayar04/todo_list_app.git))
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]([https://github.com/Usukhbayar04/todolist_app/](https://github.com/Usukhbayar04/todo_list_app.git))
 
 ## Features
 
