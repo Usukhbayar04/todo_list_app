@@ -4,9 +4,8 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]([https://github.com/Usukhbayar04/todolist_app/](https://github.com/Usukhbayar04/todo_list_app.git))
 
-#My Project
-![Logo](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc1.png)
-![Logo](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc2.png)
+![Screenshot 1](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc1.png)
+![Screenshot 2](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc2.png)
 
 ## Features
 
@@ -23,6 +22,7 @@ The Todo List app uses a number of open source packages and tools:
 - [Flutter](https://flutter.dev/) - UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase
 - [GetX](https://pub.dev/packages/get) - State management, dependency injection, and route management
 - [Dio](https://pub.dev/packages/dio) - Powerful HTTP client for Dart
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/todos/) - Fake Online REST API for Testing and Prototyping
 
 ## Directory Structure
 
