@@ -4,6 +4,10 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]([https://github.com/Usukhbayar04/todolist_app/](https://github.com/Usukhbayar04/todo_list_app.git))
 
+#My Project
+![Logo](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc1.png)
+![Logo](https://github.com/Usukhbayar04/todo_list_app/blob/master/sc2.png)
+
 ## Features
 
 - Add tasks with title and description
